@@ -56,3 +56,9 @@ Edit
 npm install        # installs dependencies
 node server.js     # starts the server
 Open your browser and go to http://localhost:3000 or whatever port the server uses.
+
+
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c75ab86a-14ec-4f7a-a9c7-a6b4e1782d62)
